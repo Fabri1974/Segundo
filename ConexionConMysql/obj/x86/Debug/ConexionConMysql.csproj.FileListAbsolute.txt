@@ -1,0 +1,11 @@
+K:\Fuentes\Blog\C#\ConexionConMysql\ConexionConMysql\bin\Debug\ConexionConMysql.exe
+K:\Fuentes\Blog\C#\ConexionConMysql\ConexionConMysql\bin\Debug\ConexionConMysql.pdb
+K:\Fuentes\Blog\C#\ConexionConMysql\ConexionConMysql\bin\Debug\MySql.Data.dll
+K:\Fuentes\Blog\C#\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.csprojResolveAssemblyReference.cache
+K:\Fuentes\Blog\C#\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.exe
+K:\Fuentes\Blog\C#\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.pdb
+C:\Users\FabricioPc\Desktop\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.exe
+C:\Users\FabricioPc\Desktop\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.pdb
+C:\Users\FabricioPc\Desktop\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.csprojResolveAssemblyReference.cache
+C:\Users\FabricioPc\Desktop\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.csprojAssemblyReference.cache
+C:\Users\FabricioPc\Desktop\ConexionConMysql\ConexionConMysql\obj\x86\Debug\ConexionConMysql.csproj.CoreCompileInputs.cache
